@@ -44,7 +44,7 @@ npm start
 
 ## 👨🏼‍💻 Autor
 
-Foto | Nome | GitHub | Likedin | E-mail
----- | ---- | ------ | ------- | ------
+Foto | Nome | GitHub | E-mail
+---- | ---- | ------ | ------
 <img src="https://avatars1.githubusercontent.com/u/58191082?s=460&v=4" width="100px"> | Walace Dilan | [walace268](https://github.com/walace268) | contato.walace.dilan@gmail.com
 
